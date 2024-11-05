@@ -1,0 +1,4 @@
+learning rate: 0.000800
+batch size: 32.000000
+start iter: 500
+mid iter: 2000
